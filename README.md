@@ -17,7 +17,7 @@ Access at [PleTs](https://github.com/GiliSchmidt/PleTs-Testing).
 Access at [SonarQubeRules](https://github.com/yuryalencar/SonarQubeRules).
 
 ## Canopus
-Canopus is a domain-specific language (DSO) for modeling performance testing. Access at [Canopus](https://github.com/ProjetoDSL/Canopus).
+Canopus is a domain-specific language (DSL) for modeling performance testing. Access at [Canopus](https://github.com/ProjetoDSL/Canopus).
 
 
 Webpage: [http://lesse.com.br/](http://lesse.com.br/)
