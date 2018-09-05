@@ -1,7 +1,5 @@
 #  Laboratory of Empirical Studies in Software Engineering (LESSE)
 
-![LESSE](https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logolesse.png)
-
 **Created in 2018, the Laboratory of Empirical Studies in Software Engineering (LESSE) of UNIPAMPA has as main objective to support the teaching, research and dissemination of knowledge in the area of Software Engineering in Empirical Studies.**
 
 **Our researches are available at:**
@@ -20,3 +18,9 @@ Access at [SonarQubeRules](https://github.com/yuryalencar/SonarQubeRules).
 
 ## Canopus
 Access at [Canopus](https://github.com/ProjetoDSL/Canopus).
+
+
+Webpage: [http://lesse.com.br/](http://lesse.com.br/)
+
+![LESSE](https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logolesse.png)
+
