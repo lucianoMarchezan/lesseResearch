@@ -19,6 +19,9 @@ Access at [SonarQubeRules](https://github.com/yuryalencar/SonarQubeRules).
 ## Canopus
 Canopus is a domain-specific language (DSL) for modeling performance testing. Access at [Canopus](https://github.com/ProjetoDSL/Canopus).
 
+## Thoth
+A web-based tool to support Systematic literature reviews.  Access at [Thoth](https://github.com/ProjetoESE/Thoth).
+
 
 Webpage: [http://lesse.com.br/](http://lesse.com.br/)
 
