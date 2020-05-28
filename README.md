@@ -15,7 +15,7 @@ SPL re-engineering. Access at [PAxSPL](https://github.com/HestiaProject/PAxSPL).
 
 ## Thoth
 A web-based tool to support Systematic literature reviews.  Access at [Thoth](https://github.com/ProjetoESE/Thoth).
-<p align="center"><img src="http://lesse.com.br/tools/thoth/assets/img/icone.svg" width="200"></p> 
+<p align="center"><img src="http://lesse.com.br/tools/thoth/assets/img/icone.svg" width="100"></p> 
 
 ## OpenMLPerf
 OpenMLPerf is a domain-specific language (DSL) for modeling performance testing. Access at [OpenMLPerf](https://github.com/ProjetoDSL/Canopus).
