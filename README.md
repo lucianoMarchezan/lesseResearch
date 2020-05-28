@@ -10,8 +10,7 @@ Webpage: [http://lesse.com.br/](http://lesse.com.br/)
 ## PAxSPL 
 <p align="center"><img src="https://github.com/HestiaProject/PAxSPL/blob/master/process/img/framework.png" width="200"></p> 
 
-The Prepare, Assemble and Execute (PAEPSPL) is a process that assembles and executes a feature retrieval process for 
-SPL re-engineering. Access at [PAxSPL](https://github.com/HestiaProject/PAxSPL).
+The Prepare, Assemble and Execute Framework for SPL (PAxSPL) is a framework composed of a process that assembles and executes a feature retrieval process for SPL re-engineering, a set of guidelines and a web-tool. Access at [PAxSPL](https://github.com/HestiaProject/PAxSPL).
 
 ## Thoth
 A web-based tool to support Systematic literature reviews.  Access at [Thoth](https://github.com/ProjetoESE/Thoth).
