@@ -2,9 +2,13 @@
 
 **Created in 2018, the Laboratory of Empirical Studies in Software Engineering (LESSE) of UNIPAMPA has as main objective to support the teaching, research and dissemination of knowledge in the area of Software Engineering in Empirical Studies.**
 
-**Our researches are available at:**
+<p align="center"><img src="https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logolesse.png" width="400"></p>
+
+**Our research projects are available at:**
 
 ## PAxSPL 
+<p align="center"><img src="https://github.com/HestiaProject/PAxSPL/blob/master/process/img/framework.png" width="200"></p> 
+
 The Prepare, Assemble and Execute (PAEPSPL) is a process that assembles and executes a feature retrieval process for 
 SPL re-engineering. Access at [PAxSPL](https://github.com/HestiaProject/PAxSPL).
 
@@ -25,5 +29,4 @@ A web-based tool to support Systematic literature reviews.  Access at [Thoth](ht
 
 Webpage: [http://lesse.com.br/](http://lesse.com.br/)
 
-![LESSE](https://raw.githubusercontent.com/lesseUnipampa/lesseResearch/master/logolesse.png)
 
